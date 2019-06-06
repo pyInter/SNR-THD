@@ -1,0 +1,11 @@
+﻿  SNR+THD.cpp
+D:\ws\vsp\SNR+THD\SNR+THD\SNR+THD.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+D:\ws\vsp\SNR+THD\SNR+THD\SNR+THD.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+D:\ws\vsp\SNR+THD\SNR+THD\SNR+THD.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+D:\ws\vsp\SNR+THD\SNR+THD\SNR+THD.cpp(109): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 50 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SNR+THD.vcxproj -> D:\ws\vsp\SNR+THD\x64\Release\SNR+THD.exe

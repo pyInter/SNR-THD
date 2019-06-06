@@ -1,0 +1,9 @@
+﻿  SNR+THD.cpp
+SNR+THD.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_execute，该符号在函数 _main 中被引用
+SNR+THD.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_plan_dft_r2c_1d，该符号在函数 _main 中被引用
+SNR+THD.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_malloc，该符号在函数 _main 中被引用
+SNR+THD.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_free，该符号在函数 _main 中被引用
+D:\Program Files\Microsoft Visual Studio\libs\fftw-3.3.5-dll64\libfftw3-3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\Program Files\Microsoft Visual Studio\libs\fftw-3.3.5-dll64\libfftw3f-3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\Program Files\Microsoft Visual Studio\libs\fftw-3.3.5-dll64\libfftw3l-3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\ws\vsp\SNR+THD\Debug\SNR+THD.exe : fatal error LNK1120: 4 个无法解析的外部命令
